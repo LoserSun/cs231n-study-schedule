@@ -31,6 +31,6 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
   - [ ] *a visualization technique called [t-SNE](http://lvdmaaten.github.io/tsne/)*
 - Summary
 - Summary: Applying kNN in practice
-  - [ ] If your data is very high-dimensional, consider using a dimensionality reduction technique such as PCA([wiki ref](http://en.wikipedia.org/wiki/Principal_component_analysis), [CS229ref](http://cs229.stanford.edu/notes/cs229-notes10.pdf), [blog ref](http://www.bigdataexaminer.com/understanding-dimensionality-reduction-principal-component-analysis-and-singular-value-decomposition/) or even [Random Projections](http://scikit-learn.org/stable/modules/random_projection.html).
+  - [ ] *If your data is very high-dimensional, consider using a dimensionality reduction technique such as PCA([wiki ref](http://en.wikipedia.org/wiki/Principal_component_analysis), [CS229ref](http://cs229.stanford.edu/notes/cs229-notes10.pdf), [blog ref](http://www.bigdataexaminer.com/understanding-dimensionality-reduction-principal-component-analysis-and-singular-value-decomposition/) or even [Random Projections](http://scikit-learn.org/stable/modules/random_projection.html).*
     
 - Further Reading
