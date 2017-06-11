@@ -13,21 +13,21 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 - Course logistics
 ### [ ] [video](https://www.youtube.com/watch?v=NfnWJUyUJYU&t=204s&index=1&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
-- [ ] **Lecture 2:** Image Classification 
-  - [X] [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture2.pdf)
-    - The data-driven approach 
-    - K-nearest neighbor 
-    - Linear classification I
-  - [ ] [video]()
-  - [X] [python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
-  - [X] [image classification notes](http://cs231n.github.io/classification)
-    - Intro to Image Classification, data-driven approach, pipeline
-    - Nearest Neighbor Classifier
-      - k-Nearest Neighbor
-    - Validation sets, Cross-validation, hyperparameter tuning
-    - Pros/Cons of Nearest Neighbor
-      - *accelerate the nearest neighbor lookup in a dataset (e.g. [FLANN](http://www.cs.ubc.ca/research/flann/))*
-      - *a visualization technique called [t-SNE](http://lvdmaaten.github.io/tsne/)*
-    - Summary
-    - Summary: Applying kNN in practice
-    - Further Reading
+## [ ] **Lecture 2:** Image Classification 
+### [X] [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture2.pdf)
+- The data-driven approach 
+- K-nearest neighbor 
+- Linear classification I
+### [ ] [video]()
+### [X] [python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+### [X] [image classification notes](http://cs231n.github.io/classification)
+- Intro to Image Classification, data-driven approach, pipeline
+- Nearest Neighbor Classifier
+  - k-Nearest Neighbor
+- Validation sets, Cross-validation, hyperparameter tuning
+- Pros/Cons of Nearest Neighbor
+  - *accelerate the nearest neighbor lookup in a dataset (e.g. [FLANN](http://www.cs.ubc.ca/research/flann/))*
+  - *a visualization technique called [t-SNE](http://lvdmaaten.github.io/tsne/)*
+- Summary
+- Summary: Applying kNN in practice
+- Further Reading
