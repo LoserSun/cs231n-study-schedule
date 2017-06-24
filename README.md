@@ -7,7 +7,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 
 **Course Syllabus**
 ##  **Lecture 1:**  Course Introduction  [**done!!!**]
- 
+
 ### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf) [**done!!!**]
 - Computer vision overview 
 - Historical context 
@@ -27,18 +27,18 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
   - k-Nearest Neighbor
 - Validation sets, Cross-validation, hyperparameter tuning
 - Pros/Cons of Nearest Neighbor
-  - [X] *accelerate the nearest neighbor lookup in a dataset (e.g. [FLANN](http://www.cs.ubc.ca/research/flann/))*
-  - [X] *a visualization technique called [t-SNE](http://lvdmaaten.github.io/tsne/)*
+  - [x] *accelerate the nearest neighbor lookup in a dataset (e.g. [FLANN](http://www.cs.ubc.ca/research/flann/))*
+  - [x] *a visualization technique called [t-SNE](http://lvdmaaten.github.io/tsne/)*
 - Summary
 - Summary: Applying kNN in practice
-  - [X] *If your data is very high-dimensional, consider using a dimensionality reduction technique such as PCA([wiki ref](http://en.wikipedia.org/wiki/Principal_component_analysis), [CS229ref](http://cs229.stanford.edu/notes/cs229-notes10.pdf), [blog ref](http://www.bigdataexaminer.com/understanding-dimensionality-reduction-principal-component-analysis-and-singular-value-decomposition/) )or even [Random Projections](http://scikit-learn.org/stable/modules/random_projection.html).*
-    
+  - [x] *If your data is very high-dimensional, consider using a dimensionality reduction technique such as PCA([wiki ref](http://en.wikipedia.org/wiki/Principal_component_analysis), [CS229ref](http://cs229.stanford.edu/notes/cs229-notes10.pdf), [blog ref](http://www.bigdataexaminer.com/understanding-dimensionality-reduction-principal-component-analysis-and-singular-value-decomposition/) )or even [Random Projections](http://scikit-learn.org/stable/modules/random_projection.html).*
+
 - Further Reading
 
   Here are some (optional) links you may find interesting for further reading:
 
-  - [X] *[A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), where especially section 6 is related but the whole paper is a warmly recommended reading.*
-  - [X] *[Recognizing and Learning Object Categories](http://people.csail.mit.edu/torralba/shortCourseRLOC/index.html), a short course of object categorization at ICCV 2005.*
+  - [x] *[A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), where especially section 6 is related but the whole paper is a warmly recommended reading.*
+  - [x] *[Recognizing and Learning Object Categories](http://people.csail.mit.edu/torralba/shortCourseRLOC/index.html), a short course of object categorization at ICCV 2005.*
 
 ### [linear classification notes](http://cs231n.github.io/linear-classify/) [**done!!!**]
 - Intro to Linear classification
@@ -54,7 +54,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 - Further Reading
 
   These readings are optional and contain pointers of interest.
- 
+
  - [X] [Deep Learning using Linear Support Vector Machines](http://arxiv.org/abs/1306.0239) from Charlie Tang 2013 presents some results claiming that the L2SVM outperforms Softmax.
 
 ## **Lecture3 :** Loss Functions and Optimization  [** **]
@@ -64,11 +64,13 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 - Higher-level representations, image features
 - Optimization, stochastic gradient descent
 
-### [video](https://www.youtube.com/watch?v=qlLChbHhbg4&index=3&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [** **]
+### [video](https://www.youtube.com/watch?v=qlLChbHhbg4&index=3&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [**done!!!**]
 
 ### [linear classification notes](http://cs231n.github.io/linear-classify/) [**done!!!**] 
 
 *same to Lecture2: linear classification notes*
+
+- [x] [Linear Classification Loss Visualization Demo](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
 
 ### [optimization notes]() [** **]
 
@@ -109,7 +111,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 - Backprop in practice: Staged computation
 - Patterns in backward flow
 - Gradients for vectorized operations
-  - [X] *[Vector, Matrix, and Tensor Derivatives](http://cs231n.stanford.edu/vecDerivs.pdf)* 
+  - [x] *[Vector, Matrix, and Tensor Derivatives](http://cs231n.stanford.edu/vecDerivs.pdf)* 
 - Summary
 - References
   - [ ] *[Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767)*
@@ -124,7 +126,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 
 - [ ] [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
 - [ ] [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
-- [X] [Video: Learning: Neural Nets, Back Propagation](https://www.youtube.com/watch?v=q0pm3BrIUFo)
+- [x] [Video: Learning: Neural Nets, Back Propagation](https://www.youtube.com/watch?v=q0pm3BrIUFo)
 
 ## **Lecture5：** Convolutional Neural Networks [** **]
 
@@ -205,7 +207,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 
 - Setting up the data and the model
   - Data Preprocessing
-    - [X] *[Principal Component Analysis (PCA)](http://en.wikipedia.org/wiki/Principal_component_analysis)* 
+    - [x] *[Principal Component Analysis (PCA)](http://en.wikipedia.org/wiki/Principal_component_analysis)* 
   - Weight Initialization
     - [ ] *[Understanding the difficulty of training deep feedforward neural networks ](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)*
     - [ ] *[Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](http://arxiv-web3.library.cornell.edu/abs/1502.01852)*
