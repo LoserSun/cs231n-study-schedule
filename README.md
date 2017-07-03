@@ -57,7 +57,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 
  - [X] [Deep Learning using Linear Support Vector Machines](http://arxiv.org/abs/1306.0239) from Charlie Tang 2013 presents some results claiming that the L2SVM outperforms Softmax.
 
-## **Lecture3 :** Loss Functions and Optimization  [** **]
+## **Lecture3 :** Loss Functions and Optimization  [**done!!!**]
 
 ### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf) [**done!!!**]
 - Linear classification II
@@ -72,13 +72,13 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 
 - [x] [Linear Classification Loss Visualization Demo](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
 
-### [optimization notes]() [** **]
+### [optimization notes]() [**done!!!**]
 
 - Introduction
 - Visualizing the loss function
 
-  - [ ] *a Stanford class on the topic [convex optimization](http://stanford.edu/~boyd/cvxbook/) *
-  - [ ] *[Subderivative](https://en.wikipedia.org/wiki/Subderivative)*
+  - [x] *a Stanford class on the topic [convex optimization](http://stanford.edu/~boyd/cvxbook/) * (other project)
+  - [x] *[Subderivative](https://en.wikipedia.org/wiki/Subderivative)*
 
 - Optimization
   - Strategy #1: Random Search
@@ -91,7 +91,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 - Summary
 
 
-## **Lecture4:** Introduction to Neural Networks  [** **]
+## **Lecture4:** Introduction to Neural Networks  [**done!!!**]
 
 ### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf) [**done!!!**]
 
@@ -99,9 +99,9 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 - Multi-layer Perceptrons
 - The neural viewpoint
 
-### [video]() [** **]
+### [video]() [**done!!!**]
 
-### [backprop notes](http://cs231n.github.io/optimization-2/) [** **]
+### [backprop notes](http://cs231n.github.io/optimization-2/) [**done!!!**]
 
 - Introduction
 - Simple expressions, interpreting the gradient
@@ -114,18 +114,18 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
   - [x] *[Vector, Matrix, and Tensor Derivatives](http://cs231n.stanford.edu/vecDerivs.pdf)* 
 - Summary
 - References
-  - [ ] *[Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767)*
+  - [x] *[Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767)*
 
-### [linear backprop example](http://cs231n.stanford.edu/handouts/linear-backprop.pdf) [** **]
+### [linear backprop example](http://cs231n.stanford.edu/handouts/linear-backprop.pdf) [**done!!!**]
 
-### [derivatives notes](http://cs231n.stanford.edu/handouts/derivatives.pdf) (optional) [** **]
+### [derivatives notes](http://cs231n.stanford.edu/handouts/derivatives.pdf) (optional) [**done!!!**]
 
-### [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) (optional) [** **]
+### [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) (optional) [**done!!!**]
 
-### [Related]() (optional) [** **]
+### [Related]() (optional) [**done!!!**]
 
-- [ ] [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
-- [ ] [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+- [x] [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
+- [x] [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [x] [Video: Learning: Neural Nets, Back Propagation](https://www.youtube.com/watch?v=q0pm3BrIUFo)
 
 ## **Lecture5：** Convolutional Neural Networks [** **]
