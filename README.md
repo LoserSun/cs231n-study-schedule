@@ -101,6 +101,9 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 
 ### [video]() [**done!!!**]
 
+- [x] [Neural Networks Part 1](https://www.youtube.com/watch?v=i94OvYb6noo&index=4&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [**done!!!**]
+- [x] [Neural Networks Part 2](https://www.youtube.com/watch?v=gYpoJMlgyXA&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=5) [**done!!!**]
+
 ### [backprop notes](http://cs231n.github.io/optimization-2/) [**done!!!**]
 
 - Introduction
