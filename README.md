@@ -19,7 +19,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 - The data-driven approach 
 - K-nearest neighbor 
 - Linear classification I
-### [video](https://www.youtube.com/watch?v=8inugqHkfvE&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=2) [**done！！！**]
+### [video](https://www.youtube.com/watch?v=8inugqHkfvE&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=2) [**done!!!**]
 ### [python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/) [**done!!!**]
 ### [image classification notes](http://cs231n.github.io/classification) [**done!!!**]
 - Intro to Image Classification, data-driven approach, pipeline
