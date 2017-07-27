@@ -46,7 +46,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 - Interpreting a linear classifier
 - Loss function
   - Multiclass SVM
-   - [X]  *For example, it turns out that including the L2 penalty leads to the appealing **max margin** property in SVMs (See [CS229](http://cs229.stanford.edu/notes/cs229-notes3.pdf) lecture notes for full details if you are interested).*
+  - - [x] *For example, it turns out that including the L2 penalty leads to the appealing **max margin** property in SVMs (See [CS229](http://cs229.stanford.edu/notes/cs229-notes3.pdf) lecture notes for full details if you are interested).*
   - Softmax classifier
   - SVM vs Softmax
 - Interactive Web Demo of Linear Classification
@@ -55,7 +55,7 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 
   These readings are optional and contain pointers of interest.
 
- - [X] [Deep Learning using Linear Support Vector Machines](http://arxiv.org/abs/1306.0239) from Charlie Tang 2013 presents some results claiming that the L2SVM outperforms Softmax.
+ - - [x] [Deep Learning using Linear Support Vector Machines](http://arxiv.org/abs/1306.0239) from Charlie Tang 2013 presents some results claiming that the L2SVM outperforms Softmax.
 
 ## **Lecture3 :** Loss Functions and Optimization  [**done!!!**]
 
@@ -77,9 +77,8 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
 - Introduction
 - Visualizing the loss function
 
-  - [x] *a Stanford class on the topic [convex optimization](http://stanford.edu/~boyd/cvxbook/) * (other project)
+  - [x] *a Stanford class on the topic [convex optimization](http://stanford.edu/~boyd/cvxbook/)* (other project)
   - [x] *[Subderivative](https://en.wikipedia.org/wiki/Subderivative)*
-
 - Optimization
   - Strategy #1: Random Search
   - Strategy #2: Random Local Search
@@ -89,6 +88,14 @@ Video: [CS231n Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVct
   - Analytically with calculus
 - Gradient descent
 - Summary
+
+
+------
+
+# **MARK!!!**
+
+------
+
 
 
 ## **Lecture4:** Introduction to Neural Networks  [**done!!!**]
