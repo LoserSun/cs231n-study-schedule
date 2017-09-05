@@ -64,7 +64,7 @@ Video: [CS231n Spring 2016](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 - Higher-level representations, image features
 - Optimization, stochastic gradient descent
 
-### [video](https://www.youtube.com/watch?v=qlLChbHhbg4&index=3&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [**done!!!**]
+### [video](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 
 ### [linear classification notes](http://cs231n.github.io/linear-classify/) [**done!!!**] 
 
