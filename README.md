@@ -3,7 +3,7 @@ cs231n learning notes
 
 Website: [Convolutional Neural Networks for Visual Recognition (Spring 2017)](http://cs231n.stanford.edu/index.html)
 
-Video: [CS231n Spring 2016](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 **Course Syllabus**
 ##  **Lecture 1:**  Course Introduction  [**done!!!**]
@@ -90,14 +90,6 @@ Video: [CS231n Spring 2016](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 - Summary
 
 
-------
-
-# **MARK!!!**
-
-------
-
-
-
 ## **Lecture4:** Introduction to Neural Networks  [**done!!!**]
 
 ### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf) [**done!!!**]
@@ -106,10 +98,7 @@ Video: [CS231n Spring 2016](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 - Multi-layer Perceptrons
 - The neural viewpoint
 
-### [video]() [**done!!!**]
-
-- [x] [Neural Networks Part 1](https://www.youtube.com/watch?v=i94OvYb6noo&index=4&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [**done!!!**]
-- [x] [Neural Networks Part 2](https://www.youtube.com/watch?v=gYpoJMlgyXA&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=5) [**done!!!**]
+### [video](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 
 ### [backprop notes](http://cs231n.github.io/optimization-2/) [**done!!!**]
 
@@ -135,8 +124,16 @@ Video: [CS231n Spring 2016](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 ### [Related]() (optional) [**done!!!**]
 
 - [x] [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
+
 - [x] [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
-- [x] [Video: Learning: Neural Nets, Back Propagation](https://www.youtube.com/watch?v=q0pm3BrIUFo)
+
+- [x] [Video: Learning: Neural Nets, Back Propagation](https://www.youtube.com/watch?v=q0pm3BrIUFo) 
+
+------
+
+# MARK !!!
+
+------
 
 ## **Lecture5：** Convolutional Neural Networks [**done!!!**]
 
