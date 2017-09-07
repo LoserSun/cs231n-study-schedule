@@ -129,12 +129,6 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 - [x] [Video: Learning: Neural Nets, Back Propagation](https://www.youtube.com/watch?v=q0pm3BrIUFo) 
 
-------
-
-# MARK !!!
-
-------
-
 ## **Lecture5：** Convolutional Neural Networks [**done!!!**]
 
 ### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) [**done!!!**]
@@ -144,10 +138,7 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 - ConvNets outside vision
 
-## [video]() [**done!!!**]
-- [x] [ Neural Networks Part 3 / Intro to ConvNets](https://www.youtube.com/watch?v=hd_KFJ5ktUc&index=6&t=713s&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [**done!!!**]
-- [x] [ Convolutional Neural Networks](https://www.youtube.com/watch?v=LxfUGhug-iQ&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=7) [**done!!!**]
-
+## [video](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 ### [ConvNet notes](http://cs231n.github.io/convolutional-networks/) [**done!!!**]
 
 - Architecture Overview
@@ -182,6 +173,12 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
   - [x] [Caffe](http://caffe.berkeleyvision.org/), one of the popular ConvNet libraries.
   - [x] [State of the art ResNets in Torch7](http://torch.ch/blog/2016/02/04/resnets.html)
 
+------
+
+# MARK !!!
+
+------
+
 ## **Lecture 6:**  Training Neural Networks, part I [** **]
 
 ### [slides]() [**done!!!**]
@@ -200,9 +197,9 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
   - Biological motivation and connections
   - Single neuron as a linear classifier
   - Commonly used activation functions
-    - [x] ***Tanh**, [Krizhevsky et al](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)*
-    - [x] ***Leaky ReLU**, [Delving Deep into Rectifiers](http://arxiv.org/abs/1502.01852)*
-    - [x] ***Maxout**, One relatively popular choice is the Maxout neuron (introduced recently by [Goodfellow et al.](http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html))*
+    - [x] **Tanh**, [Krizhevsky et al](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)*
+    - [x] **Leaky ReLU**, [Delving Deep into Rectifiers](http://arxiv.org/abs/1502.01852)*
+    - [x] **Maxout**, One relatively popular choice is the Maxout neuron (introduced recently by [Goodfellow et al.](http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html))*
 - Neural Network architectures
   - Layer-wise organization
   - Example feed-forward computation
