@@ -173,22 +173,12 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
   - [x] [Caffe](http://caffe.berkeleyvision.org/), one of the popular ConvNet libraries.
   - [x] [State of the art ResNets in Torch7](http://torch.ch/blog/2016/02/04/resnets.html)
 
-------
-
-# mark and  test
-
-------
-
 ## **Lecture 6:**  Training Neural Networks, part I [** **]
 
 ### [slides]() [**done!!!**]
 - Activation functions, initialization, dropout, batch normalization
 
-### [video]() [**done!!!**]
-
-- [x] [Neural Networks Part 1](https://www.youtube.com/watch?v=i94OvYb6noo&index=4&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [**done!!!**]
-- [x] [Neural Networks Part 2](https://www.youtube.com/watch?v=gYpoJMlgyXA&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=5) [**done!!!**]
-- [x] [ Neural Networks Part 3 / Intro to ConvNets](https://www.youtube.com/watch?v=hd_KFJ5ktUc&index=6&t=713s&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [**done!!!**]
+### [video](https://www.youtube.com/watch?v=wEoyxE0GP2M&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 
 ### [Neural Nets notes 1](http://cs231n.github.io/neural-networks-1/) [**done!!!**]
 
@@ -197,9 +187,9 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
   - Biological motivation and connections
   - Single neuron as a linear classifier
   - Commonly used activation functions
-    - [x] **Tanh**, [Krizhevsky et al](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)*
-    - [x] **Leaky ReLU**, [Delving Deep into Rectifiers](http://arxiv.org/abs/1502.01852)*
-    - [x] **Maxout**, One relatively popular choice is the Maxout neuron (introduced recently by [Goodfellow et al.](http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html))*
+    - [x] **Tanh**, [Krizhevsky et al](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
+    - [x] **Leaky ReLU**, [Delving Deep into Rectifiers](http://arxiv.org/abs/1502.01852)
+    - [x] **Maxout**, One relatively popular choice is the Maxout neuron (introduced recently by [Goodfellow et al.](http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html))
 - Neural Network architectures
   - Layer-wise organization
   - Example feed-forward computation
@@ -274,6 +264,8 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
  - [x] [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
  - [x] [Practical Recommendations for Gradient-Based Training ofDeepArchitectures](http://arxiv.org/pdf/1206.5533v2.pdf)
  - [x] [Deep learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
+
+## MARK !!!
 
 ## [Assignment #1 due](http://cs231n.github.io/assignments2017/assignment1/) [**done!!!**]
 
