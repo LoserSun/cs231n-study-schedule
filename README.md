@@ -175,7 +175,7 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 ------
 
-# MARK !!!
+# mark and  test
 
 ------
 
