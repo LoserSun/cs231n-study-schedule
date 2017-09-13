@@ -203,9 +203,9 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
     - [x] *but some attempts to understand these objective functions have been made, e.g. in a recent paper [The Loss Surfaces of Multilayer Networks](http://arxiv.org/abs/1412.0233).*
 - Summary
 - Additional references
- - [ ] [deeplearning.net tutorial](http://www.deeplearning.net/tutorial/mlp.html) with Theano
- - [ ] [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) demos for intuitions
- - [ ] [Michael Nielsen’s](http://neuralnetworksanddeeplearning.com/chap1.html) tutorials
+- [x][deeplearning.net tutorial](http://www.deeplearning.net/tutorial/mlp.html) with Theano
+ - [x][ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) demos for intuitions
+ - [x][Michael Nielsen’s](http://neuralnetworksanddeeplearning.com/chap1.html) tutorials
 
 ### [Neural Nets notes 2](http://cs231n.github.io/neural-networks-2/) [**done!!!**]
 
