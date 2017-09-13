@@ -173,7 +173,7 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
   - [x] [Caffe](http://caffe.berkeleyvision.org/), one of the popular ConvNet libraries.
   - [x] [State of the art ResNets in Torch7](http://torch.ch/blog/2016/02/04/resnets.html)
 
-## **Lecture 6:**  Training Neural Networks, part I [** **]
+## **Lecture 6:**  Training Neural Networks, part I [**done!!!**]
 
 ### [slides]() [**done!!!**]
 - Activation functions, initialization, dropout, batch normalization
@@ -218,7 +218,7 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
   - Batch Normalization
     - [x] *[Batch Normalization](http://arxiv.org/abs/1502.03167)*
   - Regularization (L2/L1/Maxnorm/Dropout)
-    - [x] ***Dropout**, [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)*, Recommended further reading for an interested reader includes:*
+    - [x] **Dropout**, [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)*, Recommended further reading for an interested reader includes:*
      - [x] *[Dropout paper](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf) by Srivastava et al. 2014.*
      - [x] *[Dropout Training as Adaptive Regularization](http://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf): “we show that the dropout regularizer is first-order equivalent to an L2 regularizer applied after scaling the features by an estimate of the inverse diagonal Fisher information matrix”.*
 - Loss functions
@@ -245,12 +245,12 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
           - [x] *[Large Scale Distributed Deep Networks](http://research.google.com/archive/large_deep_networks_nips2012.html) is a paper from the Google Brain team, comparing L-BFGS and SGD variants in large-scale distributed optimization.*
           - [x] *[SFO](http://arxiv.org/abs/1311.2115) algorithm strives to combine the advantages of SGD with advantages of L-BFGS.*
   - Per-parameter adaptive learning rates (Adagrad, RMSProp)
-    - [x] ***Adagrad** is an adaptive learning rate method originally proposed by [Duchi et al.](http://jmlr.org/papers/v12/duchi11a.html)*
-    - [x] ***RMSprop**, everyone who uses this method in their work currently cites [slide 29 of Lecture 6](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) of Geoff Hinton’s Coursera class.*
-    - [x] ***Adam**,  [Adam](http://arxiv.org/abs/1412.6980) is a recently proposed update that looks a bit like RMSProp with momentum.*
+    - [x] ***Adagrad*** , *is an adaptive learning rate method originally proposed by [Duchi et al.](http://jmlr.org/papers/v12/duchi11a.html)* 
+    - [x] ***RMSprop***, *everyone who uses this method in their work currently cites [slide 29 of Lecture 6](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) of Geoff Hinton’s Coursera class.*
+    - [x] ***Adam***,  *[Adam](http://arxiv.org/abs/1412.6980) is a recently proposed update that looks a bit like RMSProp with momentum.*
     - [x] *[Unit Tests for Stochastic Optimization](http://arxiv.org/abs/1312.6055) proposes a series of tests as a standardized benchmark for stochastic optimization.*
 - Hyperparameter Optimization
-  - [x] ***Prefer random search to grid search.** As argued by Bergstra and Bengio in [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf), “randomly chosen trials are more efficient for hyper-parameter optimization than trials on a grid”*
+  - [x] **Prefer random search to grid search.** *As argued by Bergstra and Bengio in [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf), “randomly chosen trials are more efficient for hyper-parameter optimization than trials on a grid”*
 - Evaluation
   - Model Ensembles
 - Summary
