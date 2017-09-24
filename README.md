@@ -265,16 +265,27 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
  - [x] [Practical Recommendations for Gradient-Based Training ofDeepArchitectures](http://arxiv.org/pdf/1206.5533v2.pdf)
  - [x] [Deep learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 
-## MARK !!!
 
-## [Assignment #1 due](http://cs231n.github.io/assignments2017/assignment1/) [**done!!!**]
 
-### [k-Nearest Neighbor classifier](https://github.com/LoserSun/cs231n-study-schedule/blob/master/assignment1/knn.ipynb) [**done!!!**]
+## [Assignment #1 due](https://github.com/LoserSun/cs231n-study-schedule/tree/master/spring2017_assignment1) [**done!!!**]
 
-### [Training a Support Vector Machine](https://github.com/LoserSun/cs231n-study-schedule/blob/master/assignment1/svm.ipynb) [**done!!!**]
+### [k-Nearest Neighbor classifier](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring2017_assignment1/knn.ipynb) [**done!!!**]
 
-### [Implement a Softmax classifier](https://github.com/LoserSun/cs231n-study-schedule/blob/master/assignment1/softmax.ipynb) [**done!!!**]
+### [Training a Support Vector Machine](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring2017_assignment1/svm.ipynb) [**done!!!**]
 
-### [Two-Layer Neural Network](https://github.com/LoserSun/cs231n-study-schedule/blob/master/assignment1/two_layer_net.ipynb) [**done!!!**]
+### [Implement a Softmax classifier](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring2017_assignment1/softmax.ipynb) [**done!!!**]
 
-### [Higher Level Representations: Image Features](https://github.com/LoserSun/cs231n-study-schedule/blob/master/assignment1/features.ipynb) [**done!!!**]
+### [Two-Layer Neural Network](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring2017_assignment1/two_layer_net.ipynb) [**done!!!**]
+
+### [Higher Level Representations: Image Features](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring2017_assignment1/features.ipynb) [**done!!!**]
+
+
+
+##  Lecture 7： **Training Neural Networks, part II** 
+
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture7.pdf) [** **]
+
+### [video](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [** **]
+
+### [Neural Nets notes 3](http://cs231n.github.io/neural-networks-3/)  (same as the Lecture 6) [**done!!!**]
+
