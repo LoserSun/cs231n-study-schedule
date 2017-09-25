@@ -281,11 +281,19 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 
 
-##  Lecture 7： **Training Neural Networks, part II** 
+##  Lecture 7： **Training Neural Networks, part II** [**done!!!**] 
 
-### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture7.pdf) [** **]
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture7.pdf) [**done!!!**]
 
-### [video](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [** **]
+### [video](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done !!!**]
 
 ### [Neural Nets notes 3](http://cs231n.github.io/neural-networks-3/)  (same as the Lecture 6) [**done!!!**]
+
+
+
+## Lecture 8: **Deep Learning Software** [** **]
+
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf) [** **]
+
+### [video](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [** **]
 
