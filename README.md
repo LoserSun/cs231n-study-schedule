@@ -291,9 +291,28 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 
 
-## Lecture 8: **Deep Learning Software** [** **]
+## Lecture 8: **Deep Learning Software** [**done!!!**]
 
-### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf) [** **]
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf) [**done!!!**]
 
-### [video](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [** **]
+- Programming GPUs
+
+  [Udacity: Intro to Parallel Programming](https://www.udacity.com/course/cs344)
+
+
+![20170926_01](http://oq2ugwiqj.bkt.clouddn.com/20170926_01.PNG)
+
+### [video](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
+
+
+
+## Lecture 9: **CNN Architectures** [** **] 
+
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture9.pdf) [** **]
+
+#### related materials
+
+
+
+### [video](https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [** **]
 
