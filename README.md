@@ -306,13 +306,41 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 
 
-## Lecture 9: **CNN Architectures** [** **] 
+## Lecture 9: **CNN Architectures**  [**done!!!  papers need to read**] 
 
-### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture9.pdf) [** **]
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture9.pdf) [**done!!!**]
 
-#### related materials
+#### Architectures Cases
+
+- [ ]  **AlexNet** : [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 
 
 
-### [video](https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [** **]
+- [ ]  **VGGNet** : [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+
+
+- [ ]  **GoogLeNet** : [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+- [ ] **ResNet** : [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+
+#### Comparison
+
+- [ ] [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678)
+
+#### Other architectures
+
+- **Network in Network (NiN)**
+  - [ ] [Network In Network](https://arxiv.org/abs/1312.4400)
+- **Improving ResNets**
+  - [ ] [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
+  - [ ] [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
+  - [ ] [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431)  **(ResNeXt)**
+  - [ ] [Deep Networks with Stochastic Depth](https://arxiv.org/abs/1603.09382)
+- **Beyond ResNets**
+  - [ ] [FractalNet: Ultra-Deep Neural Networks without Residuals](https://arxiv.org/abs/1605.07648)
+  - [ ] [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+  - [ ] [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360)
+
+![20170927_01](http://oq2ugwiqj.bkt.clouddn.com/20170927_01.PNG)
+
+### [video](https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 
