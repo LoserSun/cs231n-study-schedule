@@ -372,9 +372,9 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 ### [video](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 
-###[DL book RNN chapter](http://www.deeplearningbook.org/contents/rnn.html)
+### [DL book RNN chapter](http://www.deeplearningbook.org/contents/rnn.html)
 
-###Related materials
+### Related materials
 
 - [ ] **Code:** [min-char-rnn](https://gist.github.com/karpathy/d4dee566867f8291f086)
 - [ ] **Code:** [char-rnn](https://github.com/karpathy/char-rnn)
@@ -382,3 +382,4 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 
 - [ ] **Blog:** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
