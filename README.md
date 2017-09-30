@@ -312,14 +312,14 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 #### Architectures Cases
 
-- [ ]  **AlexNet** : [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
+- [ ] **AlexNet** : [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 
 
 
-- [ ]  **VGGNet** : [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+- [ ] **VGGNet** : [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 
 
-- [ ]  **GoogLeNet** : [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+- [ ] **GoogLeNet** : [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 - [ ] **ResNet** : [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 #### Comparison
@@ -344,3 +344,41 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 ### [video](https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 
+
+
+## Lecture 10 : Recurrent Neural Networks [** **]
+
+###  [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf) [**done!!!**]
+
+- [ ] [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623v2) 
+
+
+- [ ] [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078v2)
+- [ ] [VQA: Visual Question Answering]()
+
+
+- [ ] [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044v3) 
+- [ ] [VQA: Visual Question Answering](https://link.springer.com/article/10.1007/s11263-016-0966-6)
+
+
+- [ ] [On the difficulty of training Recurrent Neural Networks](https://arxiv.org/abs/1211.5063v2) 
+
+
+- [ ] **GRU**  [Learning phrase representations using rnn encoder-decoder for statistical machine translation](https://arxiv.org/abs/1406.1078v3) 
+- [ ] [LSTM: A Search Space Odyssey](https://arxiv.org/abs/1503.04069v1) 
+- [ ] [An Empirical Exploration of Recurrent Network Architectures](https://arxiv.org/abs/1607.04853v2)
+
+![20170930_01](http://oq2ugwiqj.bkt.clouddn.com/20170930_01.PNG)
+
+### [video](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
+
+###[DL book RNN chapter](http://www.deeplearningbook.org/contents/rnn.html)
+
+###Related materials
+
+- [ ] **Code:** [min-char-rnn](https://gist.github.com/karpathy/d4dee566867f8291f086)
+- [ ] **Code:** [char-rnn](https://github.com/karpathy/char-rnn)
+- [ ] **Code:**  [neuraltalk2](https://github.com/karpathy/neuraltalk2)
+
+
+- [ ] **Blog:** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
