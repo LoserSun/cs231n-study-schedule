@@ -183,29 +183,45 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 ### [Neural Nets notes 1](http://cs231n.github.io/neural-networks-1/) [**done!!!**]
 
 - Quick intro without brain analogies
+
 - Modeling one neuron
-  - Biological motivation and connections
-  - Single neuron as a linear classifier
-  - Commonly used activation functions
-    - [x] **Tanh**, [Krizhevsky et al](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
-    - [x] **Leaky ReLU**, [Delving Deep into Rectifiers](http://arxiv.org/abs/1502.01852)
-    - [x] **Maxout**, One relatively popular choice is the Maxout neuron (introduced recently by [Goodfellow et al.](http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html))
+
+- Biological motivation and connections
+
+- Single neuron as a linear classifier
+
+- Commonly used activation functions
+  - [x] **Tanh**, [Krizhevsky et al](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
+  - [x] **Leaky ReLU**, [Delving Deep into Rectifiers](http://arxiv.org/abs/1502.01852)
+  - [x] **Maxout**, One relatively popular choice is the Maxout neuron (introduced recently by [Goodfellow et al.](http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html))
+
 - Neural Network architectures
-  - Layer-wise organization
-  - Example feed-forward computation
-  - Representational power
-    - [x] *see [Approximation by Superpositions of Sigmoidal Function](http://www.dartmouth.edu/~gvc/Cybenko_MCSS.pdf) from 1989 (pdf), or this [intuitive explanation](http://neuralnetworksanddeeplearning.com/chap4.html) from Michael Nielsen*
-    - [x] *much more involved and a topic of much recent research. If you are interested in these topics we recommend for further reading:*
-          - [x] *Deep Learning book in press by Bengio, Goodfellow, Courville, in particular [Chapter 6.4](http://www.deeplearningbook.org/contents/mlp.html).*
-          - [x] *[Do Deep Nets Really Need to be Deep?](http://arxiv.org/abs/1312.6184)*
-          - [x] *[FitNets: Hints for Thin Deep Nets](http://arxiv.org/abs/1412.6550)*
-  - Setting number of layers and their sizes
-    - [x] *but some attempts to understand these objective functions have been made, e.g. in a recent paper [The Loss Surfaces of Multilayer Networks](http://arxiv.org/abs/1412.0233).*
+
+- Layer-wise organization
+
+- Example feed-forward computation
+
+- Representational power
+  - [x] *see [Approximation by Superpositions of Sigmoidal Function](http://www.dartmouth.edu/~gvc/Cybenko_MCSS.pdf) from 1989 (pdf), or this [intuitive explanation](http://neuralnetworksanddeeplearning.com/chap4.html) from Michael Nielsen*
+  - [x] *much more involved and a topic of much recent research. If you are interested in these topics we recommend for further reading:*
+        - [x] *Deep Learning book in press by Bengio, Goodfellow, Courville, in particular [Chapter 6.4](http://www.deeplearningbook.org/contents/mlp.html).*
+        - [x] *[Do Deep Nets Really Need to be Deep?](http://arxiv.org/abs/1312.6184)*
+        - [x] *[FitNets: Hints for Thin Deep Nets](http://arxiv.org/abs/1412.6550)*
+
+- Setting number of layers and their sizes
+  - [x] *but some attempts to understand these objective functions have been made, e.g. in a recent paper [The Loss Surfaces of Multilayer Networks](http://arxiv.org/abs/1412.0233).*
+
 - Summary
+
 - Additional references
-- [x][deeplearning.net tutorial](http://www.deeplearning.net/tutorial/mlp.html) with Theano
- - [x][ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) demos for intuitions
- - [x][Michael Nielsen’s](http://neuralnetworksanddeeplearning.com/chap1.html) tutorials
+
+  - [x] [deeplearning.net tutorial](http://www.deeplearning.net/tutorial/mlp.html) with Theano
+
+
+  - [x] [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) demos for intuitions
+
+
+  - [x] [Michael Nielsen’s](http://neuralnetworksanddeeplearning.com/chap1.html) tutorials
 
 ### [Neural Nets notes 2](http://cs231n.github.io/neural-networks-2/) [**done!!!**]
 
@@ -226,7 +242,7 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 ### Neural Nets notes 3 [**done!!!**]
 - Gradient checks
-  - *Stick around active range of floating point. It’s a good idea to read through [“What Every Computer Scientist Should Know About Floating-Point Arithmetic”*](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+  - *Stick around active range of floating point. It’s a good idea to read through [“What Every Computer Scientist Should Know About Floating-Point Arithmetic”](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)*
 - Sanity checks
 - Babysitting the learning process
   - Loss function
@@ -382,4 +398,5 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 
 - [ ] **Blog:** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 
