@@ -362,7 +362,7 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 
 
-## Lecture 10 : Recurrent Neural Networks [** **]
+## Lecture 10 : Recurrent Neural Networks [**done!!!  papers need to read**]
 
 ###  [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf) [**done!!!**]
 
@@ -388,7 +388,7 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 ### [video](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 
-### [DL book RNN chapter](http://www.deeplearningbook.org/contents/rnn.html)
+### [DL book RNN chapter](http://www.deeplearningbook.org/contents/rnn.html) 
 
 ### Related materials
 
@@ -397,6 +397,6 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 - [ ] **Code:**  [neuraltalk2](https://github.com/karpathy/neuraltalk2)
 
 
-- [ ] **Blog:** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [x] **Blog:** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 
