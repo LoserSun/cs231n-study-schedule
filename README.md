@@ -401,15 +401,17 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 ## [Assignment #2](http://cs231n.github.io/assignments2017/assignment2/) [**done!!!**]
 
-### [Q1: Fully-connected Neural Network]() [**done!!!**]
+### [Q1: Fully-connected Neural Network](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring1617_assignment2/FullyConnectedNets.ipynb) [**done!!!**]
 
-### [Q2: Batch Normalization]() [**done!!!**]
+### [Q2: Batch Normalization](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring1617_assignment2/BatchNormalization.ipynb) [**done!!!**]
 
-### [Q3: Dropou]() [**done!!!**]
+### [Q3: Dropou](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring1617_assignment2/Dropout.ipynb) [**done!!!**]
 
-### [Q4: Convolutional Networks]() [**done!!!**]
+### [Q4: Convolutional Networks](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring1617_assignment2/ConvolutionalNetworks.ipynb) [**done!!!**]
 
-### [Q5: PyTorch on CIFAR-10]() 、[TensorFlow on CIFAR-10]()  [**done!!!**]
+### [Q5: PyTorch on CIFAR-10](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring1617_assignment2/PyTorch.ipynb) 、[TensorFlow on CIFAR-10](https://github.com/LoserSun/cs231n-study-schedule/blob/master/spring1617_assignment2/TensorFlow.ipynb)  [**done!!!**]
+
+
 
 
 
