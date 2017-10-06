@@ -399,4 +399,17 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 - [x] **Blog:** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
+## [Assignment #2](http://cs231n.github.io/assignments2017/assignment2/) [**done!!!**]
+
+### [Q1: Fully-connected Neural Network]() [**done!!!**]
+
+### [Q2: Batch Normalization]() [**done!!!**]
+
+### [Q3: Dropou]() [**done!!!**]
+
+### [Q4: Convolutional Networks]() [**done!!!**]
+
+### [Q5: PyTorch on CIFAR-10]() 、[TensorFlow on CIFAR-10]()  [**done!!!**]
+
+
 
