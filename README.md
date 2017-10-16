@@ -413,9 +413,86 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 
 
-## Lecture 11 : **Detection and Segmentation**  
+## Lecture 11 : **Detection and Segmentation** [done!!! papers need to read]  
 
-### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf) [** **]
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf) [**done!!!**]
 
-### [Video](https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [** **]
+#### Semantic Segmentation Idea: Sliding Window 
+
+- [ ] Farabet et al, “Learning Hierarchical Features for Scene Labeling,” TPAMI 2013
+- [ ] Pinheiro and Collobert, “Recurrent Convolutional Neural Networks for Scene Labeling”, ICML 2014
+
+> !!! Problem: Very inefficient! Not reusing shared features between overlapping patches
+
+#### Semantic Segmentation Idea: Fully Convolutional
+
+> Design network as a bunch of convolutional layers, with **downsampling** and **upsampling** inside the network!
+
+![20171016_01](http://oq2ugwiqj.bkt.clouddn.com/20171016_01.PNG)
+
+- [ ] Long, Shelhamer, and Darrell, “Fully Convolutional Networks for Semantic Segmentation”, CVPR 2015
+- [ ] Noh et al, “Learning Deconvolution Network for Semantic Segmentation”, ICCV 2015
+
+#### Classification + Localization : Multitask Loss
+
+![20171016_02](http://oq2ugwiqj.bkt.clouddn.com/20171016_02.PNG)
+
+![20171016_03](http://oq2ugwiqj.bkt.clouddn.com/20171016_03.PNG)
+
+- [ ] Toshev and Szegedy, “DeepPose: Human Pose Estimation via Deep Neural Networks”, CVPR 2014
+
+> Treat localization as a regression problem!
+
+#### Object Detection as Classification: Sliding Window
+
+![20171016_04](http://oq2ugwiqj.bkt.clouddn.com/20171016_04.PNG)
+
+> Problem: Need to apply CNN to huge number of locations and scales, very computationally expensive!
+
+#### R-CNN: Region Proposals
+
+![20171016_05](http://oq2ugwiqj.bkt.clouddn.com/20171016_05.PNG)
+
+- [ ] Girshick et al, “Rich feature hierarchies for accurate object detection and semantic segmentation”, CVPR 2014.
+
+![20171016_06](http://oq2ugwiqj.bkt.clouddn.com/20171016_06.PNG)
+
+#### Fast R-CNN
+
+![20171016_07](http://oq2ugwiqj.bkt.clouddn.com/20171016_07.PNG)
+
+![20171016_08](http://oq2ugwiqj.bkt.clouddn.com/20171016_08.PNG)
+
+![20171016_09](http://oq2ugwiqj.bkt.clouddn.com/20171016_09.PNG)
+
+- [ ] Girshick, “Fast R-CNN”, ICCV 2015.
+
+#### Faster R-CNN
+
+![20171016_10](http://oq2ugwiqj.bkt.clouddn.com/20171016_10.PNG)
+
+- [ ] Ren et al, “Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks”, NIPS 2015
+
+#### Detection without Proposals: YOLO / SSD
+
+![20171016_11](http://oq2ugwiqj.bkt.clouddn.com/20171016_11.PNG)
+
+- [ ] Redmon et al, “You Only Look Once: Unified, Real-Time Object Detection”, CVPR 2016
+- [ ] Liu et al, “SSD: Single-Shot MultiBox Detector”, ECCV 2016
+
+####  Object Detection: Lots of variables ...
+
+![20171016_12](http://oq2ugwiqj.bkt.clouddn.com/20171016_12.PNG)
+
+- [ ] Huang et al, “Speed/accuracy trade-offs for modern convolutional object detectors”, CVPR 2017
+
+> Aside: Object Detection + Captioning = Dense Captioning
+
+### Mask R-CNN !!!
+
+![20171016_13](http://oq2ugwiqj.bkt.clouddn.com/20171016_13.PNG)
+
+- [ ] He et al, “Mask R-CNN”, arXiv 2017
+
+### [Video](https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 
