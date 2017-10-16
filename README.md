@@ -413,5 +413,9 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 
 
+## Lecture 11 : **Detection and Segmentation**  
 
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf) [** **]
+
+### [Video](https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [** **]
 
