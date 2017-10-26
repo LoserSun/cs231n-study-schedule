@@ -496,3 +496,185 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 ### [Video](https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
 
+## Lecture 12: **Visualizing and Understanding** [done!!! papers need to read] 
+
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf) [**done!!!**]
+
+> [DeepDream](https://github.com/google/deepdream)
+>
+> [neural-style](https://github.com/jcjohnson/neural-style)
+>
+> [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
+
+![20171026_01](http://oq2ugwiqj.bkt.clouddn.com/20171026_01.PNG)
+
+- **First Layer: Visualize Filters**
+
+> Krizhevsky, “One weird trick for parallelizing convolutional neural networks”, arXiv 2014
+> He et al, “Deep Residual Learning for Image Recognition”, CVPR 2016
+> Huang et al, “Densely Connected Convolutional Networks”, CVPR 2017
+
+- **Last Layer: Nearest Neighbors、 Dimensionality Reduction**
+
+> Krizhevsky et al, “ImageNet Classification with Deep Convolutional Neural Networks”, NIPS 2012.
+>
+> Van der Maaten and Hinton, “Visualizing Data using t-SNE”, JMLR 2008
+
+- **Visualizing Activations**
+
+> Yosinski et al, “Understanding Neural Networks Through Deep Visualization”, ICML DL Workshop 2014.
+
+- **Occlusion Experiments**
+
+> Zeiler and Fergus, “Visualizing and Understanding Convolutional Networks”, ECCV 2014
+
+- **Saliency Maps**
+
+> Simonyan, Vedaldi, and Zisserman, “Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps”, ICLR Workshop 2014.
+
+- **Visualizing CNN features: Gradient Ascent**
+
+> Simonyan, Vedaldi, and Zisserman, “Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps”, ICLR Workshop 2014.
+>
+> Yosinski et al, “Understanding Neural Networks Through Deep Visualization”, ICML DL Workshop 2014.
+>
+> Nguyen et al, “Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks”, ICML Visualization for Deep Learning Workshop 2016.
+
+- **Fooling Images / Adversarial Examples**
+
+> - (1) Start from an arbitrary image
+> - (2) Pick an arbitrary class
+> - (3) Modify the image to maximize the class
+> - (4) Repeat until network is fooled
+
+- **DeepDream: Amplify existing features**
+
+> Mordvintsev, Olah, and Tyka, “Inceptionism: Going Deeper into Neural
+> Networks”, [Google Research Blog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html).
+
+- **Feature Inversion**
+
+> Mahendran and Vedaldi, “Understanding Deep Image Representations by Inverting Them”, CVPR 2015
+>
+> Johnson, Alahi, and Fei-Fei, “Perceptual Losses for Real-Time Style Transfer and Super-Resolution”, ECCV 2016. Copyright Springer, 2016.
+
+- **Neural Texture Synthesis**
+
+> Gatys, Ecker, and Bethge, “Texture Synthesis Using Convolutional Neural Networks”, NIPS 2015
+>
+> Johnson, Alahi, and Fei-Fei, “Perceptual Losses for Real-Time Style Transfer and Super-Resolution”, ECCV 2016. Copyright Springer, 2016.
+
+- **Neural Style Transfer**
+
+> Johnson, Alahi, and Fei-Fei, “Perceptual Losses for Real-Time Style Transfer and Super-Resolution”, ECCV 2016.
+>
+> Gatys, Ecker, and Bethge, “Texture Synthesis Using Convolutional Neural Networks”, NIPS 2015
+>
+> Gatys, Ecker, and Bethge, “Image style transfer using convolutional neural networks”, CVPR 2016
+> Figure adapted from Johnson, Alahi, and Fei-Fei, “Perceptual Losses for Real-Time Style Transfer and
+> Super-Resolution”, ECCV 2016.
+>
+> Ulyanov et al, “Texture Networks: Feed-forward Synthesis of Textures and Stylized Images”, ICML 2016
+>
+> Dumoulin, Shlens, and Kudlur, “A Learned Representation for Artistic Style”, ICLR 2017
+
+## [video](https://www.youtube.com/watch?v=6wcs6szJWMY&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
+
+## Lecture 13: **Generative Models** [done!!! papers need to read] 
+
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf) [**done!!!**]
+
+#### Overview
+
+- Unsupervised Learning
+
+- Generative Models
+
+  ○ PixelRNN and PixelCNN
+
+  ○ Variational Autoencoders (VAE)
+
+  ○ Generative Adversarial Networks (GAN)
+
+#### Supervised vs Unsupervised Learning
+
+![20171026_02](http://oq2ugwiqj.bkt.clouddn.com/20171026_02.PNG)
+
+![20171026_03](http://oq2ugwiqj.bkt.clouddn.com/20171026_03.PNG)
+
+![20171026_04](http://oq2ugwiqj.bkt.clouddn.com/20171026_04.PNG)
+
+![20171026_05](http://oq2ugwiqj.bkt.clouddn.com/20171026_05.PNG)
+
+![20171026_06](http://oq2ugwiqj.bkt.clouddn.com/20171026_06.PNG)
+
+#### PixelRNN and PixelCNN
+
+![20171026_07](http://oq2ugwiqj.bkt.clouddn.com/20171026_07.PNG)
+
+- **PixelRNN**
+
+> [Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759)
+
+![20171026_08](http://oq2ugwiqj.bkt.clouddn.com/20171026_08.PNG)
+
+- **PixelCNN**
+
+> [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/abs/1606.05328)
+
+![20171026_09](http://oq2ugwiqj.bkt.clouddn.com/20171026_09.PNG)
+
+![20171026_10](http://oq2ugwiqj.bkt.clouddn.com/20171026_10.PNG)
+
+#### Variational Autoencoders (VAE)
+
+![20171026_11](http://oq2ugwiqj.bkt.clouddn.com/20171026_11.PNG)
+
+![20171026_12](http://oq2ugwiqj.bkt.clouddn.com/20171026_12.PNG)
+
+![20171026_13](http://oq2ugwiqj.bkt.clouddn.com/20171026_13.PNG)
+
+![20171026_14](http://oq2ugwiqj.bkt.clouddn.com/20171026_14.PNG)
+
+![20171026_15](http://oq2ugwiqj.bkt.clouddn.com/20171026_15.PNG)
+
+![20171026_16](http://oq2ugwiqj.bkt.clouddn.com/20171026_16.PNG)
+
+> Kingma and Welling, “Auto-Encoding Variational Bayes”, ICLR 2014
+
+![20171026_17](http://oq2ugwiqj.bkt.clouddn.com/20171026_17.PNG)
+
+#### Generative Adversarial Networks
+
+> Ian Goodfellow et al., “Generative Adversarial Nets”, NIPS 2014
+
+![20171026_18](http://oq2ugwiqj.bkt.clouddn.com/20171026_18.PNG)
+
+![20171026_19](http://oq2ugwiqj.bkt.clouddn.com/20171026_19.PNG)
+
+![20171026_20](http://oq2ugwiqj.bkt.clouddn.com/20171026_20.PNG)
+
+![20171026_21](http://oq2ugwiqj.bkt.clouddn.com/20171026_21.PNG)
+
+![20171026_22](http://oq2ugwiqj.bkt.clouddn.com/20171026_22.PNG)
+
+- Generative Adversarial Nets: Convolutional Architectures
+
+> Radford et al, “Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks”, ICLR 2016
+>
+> - See also: https://github.com/soumith/ganhacks for tips and tricks for trainings GANs
+
+![20171026_23](http://oq2ugwiqj.bkt.clouddn.com/20171026_23.PNG)
+
+![20171026_24](http://oq2ugwiqj.bkt.clouddn.com/20171026_24.PNG)
+
+#### Recap
+
+![20171026_25](http://oq2ugwiqj.bkt.clouddn.com/20171026_25.PNG)
+
+### [video](https://www.youtube.com/watch?v=5WoItGTWV54&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
+
+
+
+## Lecture 14: **Deep Reinforcement Learning** 
+
