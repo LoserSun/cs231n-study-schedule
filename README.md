@@ -676,5 +676,41 @@ Video: [CS231n Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC
 
 
 
-## Lecture 14: **Deep Reinforcement Learning** 
+## Lecture 14: **Deep Reinforcement Learning** [**done!!!**] 
+
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf) [**done!!!**]
+
+- [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+
+### [video](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  [**done!!!**]
+
+
+
+## Guest Lecture [Song Han](https://stanford.edu/~songhan/) ： Efficient Methods and Hardware for Deep Learning [done!!!]
+
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf) [**done!!!**]
+
+### [video](https://www.youtube.com/watch?v=eZdOkDtYMoo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
+
+
+
+## **Assignment #3**
+
+
+
+
+
+## Guest Lecture [**Ian Goodfellow** ](http://www.iangoodfellow.com/) : Adversarial Examples and Adversarial Training [done!!!]
+
+### [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture16.pdf) [**done!!!**]
+
+### [video](https://www.youtube.com/watch?v=CIfsB_EYsVI&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [**done!!!**]
+
+
+
+## Final course project
+
+### [poster description](http://cs231n.stanford.edu/project.html)
+
+### [reports](http://cs231n.stanford.edu/reports.html) 
 
